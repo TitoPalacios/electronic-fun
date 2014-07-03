@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0  Date: mié 02 jul 2014 19:29:29 CEST
+#
+$CMP ARDUINO_MEGA
+D Arduino Mega
+K ARDUINO
+$ENDCMP
+#
+$CMP ARDUINO_PRO_MINI_3V
+D Arduino Pro Mini 3V 8MHz
+K ARDUINO
+$ENDCMP
+#
+$CMP ARDUINO_PRO_MINI_5V
+D Arduino Pro Mini 5V 16MHz
+K ARDUINO
+$ENDCMP
+#
+#End Doc Library
